@@ -1,6 +1,6 @@
 # jpa03-el-beetor
 
-Running at: <http://jpa03-el-beetor.dokku-05.cs.ucsb.edu/>
+Running at: <https://jpa03-el-beetor.dokku-05.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
